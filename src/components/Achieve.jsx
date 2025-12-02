@@ -44,7 +44,7 @@ const Achieve = () => {
         <div className="card w-[300px] md:w-[350px] lg:w-[400px] xl:w-[450px] pb-1 mx-auto h-[300px] md:h-[350px] lg:h-[400px] xl:h-[450px] border border-violet-600 rounded-lg">
           <div className="pic w-full rounded-t-lg h-[70%] md:h-[75%] lg:h-[80%]  overflow-hidden">
             <img
-              src="/public/Screenshot 2025-12-01 231525.png"
+              src="/Screenshot 2025-12-01 231525.png"
               alt=""
               className="w-full h-full object-contain pb-2 "
             />
@@ -85,7 +85,7 @@ const Achieve = () => {
         <div className="card w-[300px] md:w-[350px] lg:w-[400px] xl:w-[450px] pb-1 mx-auto h-[300px] md:h-[350px] lg:h-[400px] xl:h-[450px] border border-violet-600 rounded-lg">
           <div className="pic w-full rounded-t-lg h-[70%] md:h-[75%] lg:h-[80%] overflow-hidden">
             <img
-              src="/public/Screenshot 2025-12-01 231557.png"
+              src="/Screenshot 2025-12-01 231557.png"
               alt=""
               className="w-full h-full object-contain pb-2"
             />
@@ -127,7 +127,7 @@ const Achieve = () => {
         <div className="card w-[300px] md:w-[350px] lg:w-[400px] xl:w-[450px] pb-3 mx-auto h-[300px] md:h-[350px] lg:h-[400px] xl:h-[450px] border border-violet-600 rounded-lg">
           <div className="pic w-full h-[70%] md:h-[75%] lg:h-[80%] rounded-t-lg overflow-hidden">
             <img
-              src="/public/Screenshot 2025-12-01 231656.png"
+              src="/Screenshot 2025-12-01 231656.png"
               alt=""
               className="w-full h-full object-contain "
             />

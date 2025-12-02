@@ -37,7 +37,7 @@ const Coding = () => {
         <div className="code w-[300px] md:w-[350px] lg:w-[400px] h-[100px] md:h-[120px] lg:h-[130px] mx-auto bg-amber-950 flex justify-between overflow-hidden rounded-2xl my-4">
           <img
             style={{ margin: "auto", padding: "7px 0" }}
-            src="/public/LeetCode_logo_black.png"
+            src="/LeetCode_logo_black.png"
             className="w-[60px] md:w-[80px] lg:w-[100px]"
             alt=""
           />
@@ -54,7 +54,7 @@ const Coding = () => {
         <div className="code w-[300px] md:w-[350px] lg:w-[400px] h-[100px] md:h-[120px] lg:h-[130px] mx-auto bg-green-950 flex justify-between overflow-hidden rounded-2xl my-4">
           <img
             style={{ margin: "auto", padding: "7px 0" }}
-            src="/public/GeeksForGeeks_logo.png"
+            src="/GeeksForGeeks_logo.png"
             className="w-[60px] md:w-[80px] lg:w-[100px]"
             alt=""
           />
@@ -73,7 +73,7 @@ const Coding = () => {
         <div className="code w-[300px] md:w-[350px] lg:w-[400px] h-[100px] md:h-[120px] lg:h-[130px] mx-auto bg-blue-800 flex justify-between overflow-hidden rounded-2xl my-4">
           <img
             style={{ margin: "auto", padding: "7px 0" }}
-            src="/public/image.png"
+            src="/image.png"
             className="w-[60px] md:w-[80px] lg:w-[100px]"
             alt=""
           />

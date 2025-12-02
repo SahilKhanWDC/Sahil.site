@@ -151,7 +151,7 @@ const Projects = () => {
         <div className="card w-[300px] md:w-[400px] lg:w-[450px] pb-3 mx-auto h-[400px] md:h[450px] lg:h-[500px] border border-violet-600 rounded-lg">
           <div className="pic w-full rounded-t-lg h-[60%] overflow-hidden">
             <img
-              src="/public/work.png"
+              src="/work.png"
               alt=""
               className="w-full h-full object-cover transition-transform duration-500 hover:scale-110"
             />
@@ -287,7 +287,7 @@ const Projects = () => {
         <div className="card w-[300px] md:w-[400px] lg:w-[450px] pb-3 mx-auto h-[400px] md:h[450px] lg:h-[500px] border border-violet-600 rounded-lg">
           <div className="pic w-full rounded-t-lg h-[60%] overflow-hidden">
             <img
-              src="/public/aimeet.png"
+              src="/aimeet.png"
               alt=""
               className="w-full h-full object-cover transition-transform duration-500 hover:scale-110"
             />
@@ -441,7 +441,7 @@ const Projects = () => {
         <div className="card w-[300px] md:w-[400px] lg:w-[450px] pb-3 mx-auto h-[400px] md:h[450px] lg:h-[500px] border border-violet-600 rounded-lg">
           <div className="pic w-full rounded-t-lg h-[60%] overflow-hidden">
             <img
-              src="/public/Screenshot 2025-12-01 201618.png"
+              src="/Screenshot 2025-12-01 201618.png"
               alt=""
               className="w-full h-full object-cover transition-transform duration-500 hover:scale-110"
             />
