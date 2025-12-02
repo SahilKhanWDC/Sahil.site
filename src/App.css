@@ -1,0 +1,149 @@
+.nav {
+  background-color: rgba(15, 14, 14, 0.685);
+  height: 60px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  font-family: 'Courier New';
+  position: fixed;
+  
+}
+
+/* .logo{
+    width: 30px;
+    height: 30px;
+    border-radius: 999px;
+} */
+.name{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    font-size: 23px;
+}
+.home{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    /* padding-top: 20px; */
+}
+.left-home{
+    padding: 30px;
+    min-width: 250px;
+    min-height: 250px;
+    /* background-color: #633636; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 13px;
+}
+.loca{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    color: grey;
+    padding-bottom: 10px;
+}
+.links{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.right-home{
+    width: 430px;
+    min-height: 100px;
+    /* background-color: #631919;   */
+    text-align: center;
+    padding: 20px;
+}
+.right-home h1{
+    font-weight: 500;
+    font-size: 45px;
+}
+.right-home h2{
+    color: gray;
+    font-weight: 500;
+    padding-bottom: 18px;
+}
+.right-home p{
+    color: rgb(197, 193, 193);
+}
+
+.propic{
+    width: 200px;
+}
+.sch-btn{
+    background-color: transparent;
+    color: rgb(74, 170, 248);
+    border: 1px solid rgb(74, 170, 248);
+    padding: 12px 20px;
+    font-size: medium;
+    cursor: pointer;
+    border-radius: 10px;
+}
+.sch-btn:hover{
+    scale: 1.05;
+    transition: all ease-in;
+    background-color: rgb(16, 38, 56);
+    border: 1px solid rgb(16, 38, 56);
+}
+.icon-box:hover{
+    background-color: rgb(50, 12, 85);
+    border: none;
+    scale: 1.1;
+    filter: brightness(1.2);
+}
+
+@media screen and (min-width: 860px) {
+    .home{
+        flex-direction: row;
+        /* padding-top: 20vh; */
+    }
+    .home h1{
+        font-size: 70px;
+    }
+    .right-home{
+        width: 800px;
+        text-align: left;
+    }
+    .right-home p{
+        font-size: 20px;
+    }
+}
+
+/* @media screen and (min-width: 450px) {
+    .edu img{
+        width: 80px;
+    }
+    .edu h1{
+        font-size: 18px;
+    }
+    .edu h2{
+        font-size: 13px;
+    }
+}
+@media screen and (min-width: 650px) {
+    .edu img{
+        width: 120px;
+    }
+    .edu h1{
+        font-size: 25px;
+    }
+    .edu h2{
+        font-size: 20px;
+    }
+} */
+
+@media screen and (max-width:430px) {
+    ul li{
+        font-size: 12px;
+        padding-top: 2px;
+    }
+    .tech{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+}
